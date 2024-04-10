@@ -20,7 +20,7 @@ public class ProductController {
 
     //Hello features/test 1
 
-    Hello tessst 2
+    //Hello features/test 2
 
     @GetMapping("/products")
     public List<Product> getAllProduct(){
