@@ -26,14 +26,9 @@
 
 # 📒Kĩ năng áp dụng trong Project :
 <p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
-  <img width="48" height="48" src="https://img.icons8.com/color-glass/48/sql.png" alt="sql"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/>
-  <img width="40" height="40" src="https://img.icons8.com/office/40/flash-bang.png" alt="flash-bang"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/maria-db.png" alt="maria-db"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
 </p>
 
 # 📒Yêu cầu Project :
@@ -48,6 +43,6 @@
 <p>
   - Flow thực hiện quá trình CI/CD một cách tự động từ build code, tự động hóa, deploy
 </p>
-<img src="workflow" width = 100%/>
+<img src="images/workflows.jpeg" width = 100%/>
 
 
