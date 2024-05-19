@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vo Nguyen Thanh Tu</h1>
 
 - ✍ I'm a student of: [Industrial University of Ho Chi Minh City](https://iuh.edu.vn/).
-- ✍ Subject : Data Engineer
+- ✍ Subject : Softwware Engineer
 - ✍ Content: Thực hành về Github action CI/CD
 
 <br />
