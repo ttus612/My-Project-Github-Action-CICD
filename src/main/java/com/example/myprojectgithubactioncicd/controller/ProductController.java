@@ -22,6 +22,8 @@ public class ProductController {
 
     //Hello features/test 2
 
+    //Hello features/test 3
+
     @GetMapping("/products")
     public List<Product> getAllProduct(){
         return productRepository.findAll();
